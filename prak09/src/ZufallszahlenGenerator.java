@@ -1,4 +1,4 @@
-public class Zufall
+public class ZufallszahlenGenerator
 {
 	long value = 0;
 
@@ -6,12 +6,12 @@ public class Zufall
 	static long c = 1; //oder 49297 oder 11
 	static long m = 65536; //oder 233280 oder 281474976710655L
 
-	public Zufall(long start)
+	public ZufallszahlenGenerator(long start)
 	{
 		value = start;
 	}
 
-	public Zufall()
+	public ZufallszahlenGenerator()
 	{
 		value = System.currentTimeMillis();
 	}

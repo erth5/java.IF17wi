@@ -1,35 +1,33 @@
 package prak27;
 
-public class ObjectStack
+public class  ObjectStack
 {
     SimpleList stacklist;
 
-    public Stapel()
+    public ObjectStack()
     {
-        first = null;
+        stacklist = new SimpleList();
     }
 
-    public void push( ListElement e )
+    public void push( Object e )
     {
-        e.next = first;
-        first = e;
+        stacklist.insertFirst(e);
     }
 
-    public ListElement pop()
+    public Object pop()
     {
-        ListElement retval = first;
-        first = first.next;
-        return retval;
+        return stacklist.deleteFirst();
     }
 
     public boolean isEmpty()
     {
-        return first == null;
+        return stacklist.isEmpty();
     }
 
     public String toString()
     {
-
+        //das war bestimmt anders gedacht ; aber es ist eine toString() Methode ¯\_(ツ)_/¯
+        return stacklist.toString();
     }
 
 }

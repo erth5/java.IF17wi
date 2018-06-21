@@ -9,7 +9,14 @@ public class GGTTester
             throw new Exception("Enter 2 Arguments!");
         }
 
-        System.out.println("GGT = " + GGTBerechner.berechneGGT(Long.valueOf(args[0]), Long.valueOf(args[1])) );
+        try
+        {
+            System.out.println("GGT = " + GGTBerechner.berechneGGT(Long.valueOf(args[0]), Long.valueOf(args[1])));
+        }
+        catch( IllegalArgumentException e)
+        {
+            System.out.println( e.getMessage() );
+        }
 
     }
 }

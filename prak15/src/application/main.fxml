@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.mainController">
+   <children>
+      <Label layoutX="21.0" layoutY="75.0" text="Anzahl der Würfe" />
+      <TextField fx:id="anzahlWuerfe" layoutX="150.0" layoutY="70.0" />
+      <Button fx:id="btnWuerfeln" layoutX="21.0" layoutY="151.0" mnemonicParsing="false" onAction="#handleWuerfeln" text="Würfeln" />
+      <TableView fx:id="tabHaeufigkeiten" layoutX="21.0" layoutY="188.0" prefHeight="200.0" prefWidth="257.0">
+         <columns>
+            <TableColumn fx:id="spalteAugenzahl" prefWidth="89.0" text="Augenzahl" />
+            <TableColumn fx:id="spalteAbs" prefWidth="88.0" text="Absolut" />
+            <TableColumn fx:id="spalteRel" prefWidth="79.0" text="Relativ" />
+         </columns>
+      </TableView>
+      <PieChart fx:id="diaHaeufigkeiten" layoutX="289.0" layoutY="101.0" prefHeight="287.0" prefWidth="299.0" />
+   </children>
+</AnchorPane>

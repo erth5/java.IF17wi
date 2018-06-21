@@ -1,0 +1,78 @@
+--- "/home/captncaps/HSMW/IT-Sec/Semester 2/Programmierung/Praktikum/prak19/Malen.java"	2018-03-21 16:09:51.920892953 +0100
++++ /home/captncaps/HSMW/git/java.IF17wi/prak19/src/Malen.java	2018-06-21 21:19:42.041542555 +0200
+@@ -3,0 +4,9 @@
++import java.io.File;
++import java.io.FileInputStream;
++import java.io.FileNotFoundException;
++import java.io.FileOutputStream;
++import java.io.IOException;
++import java.io.ObjectInputStream;
++import java.io.ObjectOutputStream;
++import java.io.OutputStream;
++import java.util.ArrayList;
+@@ -46 +55 @@
+-	open.setEnabled(false);
++	//open.setEnabled(false);
+@@ -50 +59 @@
+-	save.setEnabled(false);
++	//save.setEnabled(false);
+@@ -78,0 +88,2 @@
++	 save.addActionListener( e -> panel.speichernBild() );
++	 open.addActionListener( e -> panel.ladenBild() );
+@@ -102,0 +114,2 @@
++       private ArrayList<SpeicherLinie> linien;
++       
+@@ -110,0 +124 @@
++           linien = new ArrayList<SpeicherLinie>();
+@@ -144,0 +159 @@
++    	   linien = new ArrayList<SpeicherLinie>();
+@@ -147,0 +163,45 @@
++       public void speichernLinie()
++       {
++    	   linien.add( new SpeicherLinie( anfang, ende, malFarbe ) );
++       }
++       
++       public void speichernBild()
++       {
++    	   try 
++    	   {
++	    	   JFileChooser kfc = new JFileChooser();
++	    	   kfc.showSaveDialog( this );
++	    	   File f = kfc.getSelectedFile();
++	    	   ObjectOutputStream oos = new ObjectOutputStream( new FileOutputStream(f) );
++	    	   oos.writeObject( linien );
++    	   }
++    	   catch( Exception e )
++    	   {
++    		   System.out.println("Fuck off you hobo");
++    	   }
++       }
++       
++       public void ladenBild()
++       {
++    	   try 
++    	   {
++	    	   loeschenBild();
++	    	   JFileChooser kfc = new JFileChooser();
++	    	   kfc.showOpenDialog( this );
++	    	   File f = kfc.getSelectedFile();
++	    	   ObjectInputStream ois = new ObjectInputStream( new FileInputStream(f) );
++	    	   linien = (ArrayList<SpeicherLinie>) ois.readObject();
++	    	   for( SpeicherLinie l : linien )
++	    	   {
++	    		   setzenMalFarbe( l.getFarbe() );
++	    		   setzenAnfangPunkt( l.getAnfang() );
++	    		   setzenEndePunkt( l.getEnde() );
++	    		   zeichnenLinie();
++	    	   }
++    	   }
++    	   catch( Exception e )
++    	   {
++    		   System.out.println("Fuck off Java");
++    	   }
++       }
++            
+@@ -184,0 +245,3 @@
++			
++			malen.speichernLinie();
++			
