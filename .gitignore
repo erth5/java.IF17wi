@@ -1,12 +1,23 @@
+#ignore pawels java files
 Keyboard.java
-Keyboard.class
 Display.java
-Display.class
 Display1.java
-Display1.class
-*.class
-.directory
 SpielStarter.java
 StapelTester.java
 StapelTester1.java
 ZufallsTestFenster.java
+Malen.java
+farben.jpg
+text.txt
+woerter.txt
+ListElement.java
+
+#ignore build directory
+build/
+
+#ignore class files
+*.class
+
+#ignore directory file (created by kde's dolphin)
+.directory
+
