@@ -18,6 +18,10 @@ build/
 #ignore class files
 *.class
 
+#ignore txt files
+*.txt
+*.txt.idx
+
 #ignore directory file (created by kde's dolphin)
 .directory
 

@@ -2,47 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3004bef7-990a-485a-8ead-ec4c406a85b1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/prak14/src/ggt/GGTBerechner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak14/src/ggt/GGTTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak14/src/zusatz/Komplex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak15/prak15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak15/src/application/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak15/src/application/application.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak16/prak16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak18/prak18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak20/prak20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak23/prak23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak24/prak24.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak27/prak27.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak27/src/prak27/BinomialKoeffizient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prak27/src/prak27/ObjectStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak17/prak17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak17/src/DoubleRAF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak17/src/IndexedRAF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak17/src/RAF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak01/HelloKeyboard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak01/HelloParameter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak01/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak02/Punkt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak02/PunktTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak03/Punkt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak03/Rechteck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak03/RechteckTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak03/RechteckTester1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak04/Rational.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak04/RationalTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak05/TicTacToe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak06/Stapel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak07/Datum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak07/DatumsTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak08/ArgsTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak08/DiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak08/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak08/Rueckwaerts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak08/SummeVon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak08a/Datum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak08a/DatumsTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak09/Zufall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak09/Zufallstester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak09/ZufallstesterGrafisch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prak10/MausMalen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,53 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="SimpleList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prak27/src/prak27/SimpleList.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DoubleRAF.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prak17/src/DoubleRAF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prak27/src/prak27/ListElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prak27/src/prak27/ObjectStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding>
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinomialKoeffizient.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prak27/src/prak27/BinomialKoeffizient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-              <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="379">
+              <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -139,7 +64,6 @@
         <option value="$PROJECT_DIR$/prak20/src/Binary.java" />
         <option value="$PROJECT_DIR$/prak20/src/Sequentiell.java" />
         <option value="$PROJECT_DIR$/prak20/src/Tester.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/prak24/src/Rechtschreibhilfe.java" />
         <option value="$PROJECT_DIR$/prak27/src/ListElement.java" />
         <option value="$PROJECT_DIR$/prak27/src/SimpleList.java" />
@@ -148,6 +72,10 @@
         <option value="$PROJECT_DIR$/prak27/src/prak27/Stapel.java" />
         <option value="$PROJECT_DIR$/prak27/src/prak27/ObjectStack.java" />
         <option value="$PROJECT_DIR$/prak27/src/prak27/BinomialKoeffizient.java" />
+        <option value="$PROJECT_DIR$/prak17/src/RAF.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/prak17/src/IndexedRAF.java" />
+        <option value="$PROJECT_DIR$/prak17/src/DoubleRAF.java" />
       </list>
     </option>
   </component>
@@ -172,20 +100,13 @@
             <path>
               <item name="java.IF17wi" type="b2602c69:ProjectViewProjectNode" />
               <item name="java.IF17wi" type="462c0819:PsiDirectoryNode" />
-              <item name="prak27" type="462c0819:PsiDirectoryNode" />
+              <item name="prak17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java.IF17wi" type="b2602c69:ProjectViewProjectNode" />
               <item name="java.IF17wi" type="462c0819:PsiDirectoryNode" />
-              <item name="prak27" type="462c0819:PsiDirectoryNode" />
+              <item name="prak17" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java.IF17wi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java.IF17wi" type="462c0819:PsiDirectoryNode" />
-              <item name="prak27" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="prak27" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,10 +139,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinomialKoeffizient">
+  <component name="RunManager" selected="Application.DoubleRAF">
     <configuration name="BinomialKoeffizient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prak27.BinomialKoeffizient" />
       <module name="prak27" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="DoubleRAF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleRAF" />
+      <module name="prak17" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="HexDump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -229,24 +155,17 @@
       <module name="prak18" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RekursionsTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RekursionsTester" />
-      <module name="prak16" />
-      <option name="PROGRAM_PARAMETERS" value="5" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="IndexedRAF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndexedRAF" />
+      <module name="prak17" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="fakultaet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fakultaet" />
-      <module name="prak16" />
-      <option name="PROGRAM_PARAMETERS" value="5" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration name="RAF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAF" />
+      <module name="prak17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fibonacci" />
-      <module name="prak16" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -258,19 +177,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Application.RekursionsTester" />
-      <item itemvalue="Application.fakultaet" />
-      <item itemvalue="Application.fibonacci" />
       <item itemvalue="Application.HexDump" />
       <item itemvalue="Application.BinomialKoeffizient" />
+      <item itemvalue="Application.RAF" />
+      <item itemvalue="Application.IndexedRAF" />
+      <item itemvalue="Application.DoubleRAF" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleRAF" />
+        <item itemvalue="Application.IndexedRAF" />
+        <item itemvalue="Application.RAF" />
         <item itemvalue="Application.BinomialKoeffizient" />
         <item itemvalue="Application.HexDump" />
-        <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.fakultaet" />
-        <item itemvalue="Application.RekursionsTester" />
       </list>
     </recent_temporary>
   </component>
@@ -282,42 +201,88 @@
       <option name="presentableId" value="Default" />
       <updated>1529603095920</updated>
       <workItem from="1529603098481" duration="769000" />
-      <workItem from="1529603880914" duration="7602000" />
+      <workItem from="1529603880914" duration="8140000" />
+      <workItem from="1529698361148" duration="2632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8371000" />
+    <option name="totallyTimeSpent" value="11541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1018" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16964285" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32930845" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32930845" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.013095238" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32930845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32930845" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/prak27/src/prak27/SimpleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak27/src/prak27/ListElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak27/src/prak27/ObjectStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak27/src/prak27/BinomialKoeffizient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak11/src/RateSpielStrg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prak01/HelloKeyboard.class" />
     <entry file="file://$PROJECT_DIR$/prak14/src/main.java" />
     <entry file="file://$PROJECT_DIR$/prak01/HelloKeyboard.java" />
@@ -424,20 +389,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prak16/src/RekursionsTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prak16/src/factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/prak16/src/RekursionsTester.java" />
+    <entry file="file://$PROJECT_DIR$/prak16/src/factorial.java" />
     <entry file="file://$PROJECT_DIR$/prak16/src/fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -476,25 +429,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prak24/src/Rechtschreibhilfe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prak23/src/Telefonbuch.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prak20/src/Binary.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prak20/src/Sequentiell.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -508,24 +448,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prak27/src/prak27/SimpleList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="630">
           <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prak27/src/prak27/Stapel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/prak27/src/prak27/Stapel.java" />
     <entry file="file://$PROJECT_DIR$/prak27/src/prak27/ListElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -535,7 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prak27/src/prak27/ObjectStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="180">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
             <element signature="e#101#102#0" expanded="true" />
@@ -550,14 +478,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/prak11/src/RateSpielStrg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prak27/src/prak27/BinomialKoeffizient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="679">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak20/src/Binary.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak23/src/Telefonbuch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/io/RandomAccessFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raf.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dasboese.txt.idx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dasboese.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak17/src/RAF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak17/src/IndexedRAF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prak17/src/DoubleRAF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
         </state>
       </provider>
     </entry>
